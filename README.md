@@ -1,6 +1,6 @@
 # Passive investing : ETF Performance Using SQL
 
-![](./7-4-challenge-image.png)
+![](./images/7-4-challenge-image.png)
 
 Build a financial database and web application by using SQL, Python, and the Voilà library to analyze the performance of a hypothetical fintech ETF.
 ----
@@ -40,8 +40,8 @@ Clone the repository and run the code on your VS vode or Jupyter Lab.
 ---
 
 ## Screenshots of the SQL application
-![](./Screen%20Shot%202023-02-28%20at%208.35.10%20PM.png)
-![](./Screen%20Shot%202023-02-28%20at%208.35.32%20PM.png)
+![](./images/Screen%20Shot%202023-02-28%20at%208.35.10%20PM.png)
+![](./images/Screen%20Shot%202023-02-28%20at%208.35.32%20PM.png)
 
 
 ## Contributors
